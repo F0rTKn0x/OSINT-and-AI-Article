@@ -3,7 +3,7 @@ Project aimed at generating a technical article with a rich layout, pleasant rea
 
 ## 💻 Tools used in my project
 
-- [ChatGPT-4o]([https://chat.openai.com/](https://chatgpt.com/)) - For content generation, text correction and image generation
+- [ChatGPT4o](https://chatgpt.com/) - For content generation, text correction and image generation
 - [Google Presentation](https://docs.google.com/presentation/) - For image preparation to post over DIO platform
 
 OSINT-and-AI-Article
