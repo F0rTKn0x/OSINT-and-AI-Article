@@ -30,6 +30,7 @@ For this article I've used ChatGPT-4o and the following prompts:
 ## 📚 Materiais
 
 - Prompts History
+- [Article](https://web.dio.me/articles/osint-and-ai?back=%2Farticles&page=1&order=oldest)
 
 ## 👨‍💻 Contact Info
 
